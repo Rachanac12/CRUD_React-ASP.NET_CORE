@@ -9,7 +9,6 @@ Features :
 - Created Asp.Net Controller with web methods for CRUD Operations
 - Created React App with create-react-app package and created React component with React Hooks
 - React Form Design with Material UI
-- Implemented CRUD with Redux
 - Enabled CORS in Web API
 - Consume API web methods from React during Form Submission and Retrieved existing records once the app is rendered
 - Real-Time Form Validation
