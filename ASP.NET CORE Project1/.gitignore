@@ -1,0 +1,28 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.obj
+*.log
+
+# Ignore build directories
+bin/
+obj/
+
+# Ignore ASP.NET Core temporary files
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Ignore package management directories
+node_modules/
+wwwroot/lib/
+
+# Ignore IDE config files
+.idea/
+.vscode/
+ 
